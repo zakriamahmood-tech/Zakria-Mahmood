@@ -29,6 +29,6 @@ Personal GitHub profile README showcasing my skills, learning journey, and goals
 
 ## 📫 Connect with Me
 
-* LinkedIn: [Add your link here]
+* LinkedIn: [https://www.linkedin.com/in/zakria-mahmood-a4452131a/]
 
 ⭐ “Learning, Building, and Growing Every Day”
